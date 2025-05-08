@@ -16,3 +16,5 @@ def letter_count(text):
         else:
             char_count[char] = 1
     return char_count
+
+
